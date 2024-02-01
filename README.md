@@ -6,3 +6,5 @@
   * Testar fluxos lógicos assíncronos com a React-Testing-Library;
   * Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados;
   * Testar inputs.
+
+<img src="./react-testing-library-project-img.png" />
